@@ -1,0 +1,34 @@
+{
+  "name": "sportsdb",
+  "version": "1.0.0",
+  "description": "pagina de deportes",
+  "main": "script.js",
+  "dependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "eslint-plugin-react": "^7.11.1",
+    "tslint": "^5.11.0"
+  },
+  "devDependencies": {
+    "curl": "^0.1.4",
+    "jquery": "^3.3.1",
+    "jsdom": "^12.0.0",
+    "nodemod": "^1.5.19",
+    "nodemon": "^1.18.4",
+    "xmldom": "^0.1.27",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvasquez87/sportdb.git"
+  },
+  "author": "lvasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvasquez87/sportdb/issues"
+  },
+  "homepage": "https://github.com/lvasquez87/sportdb#readme"
+}
