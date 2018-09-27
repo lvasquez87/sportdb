@@ -1,4 +1,4 @@
-//var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var xmlhttp = new XMLHttpRequest();
 //var xmlhttp1 = new XMLHttpRequest();
 var myObj;
