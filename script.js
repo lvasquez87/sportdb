@@ -157,7 +157,7 @@ function eliminartabla() {
   }
 
 var today = new Date().toISOString().slice(0, 10);
-document.getElementById("date").value=today;
+document.getElementById("index.html/date").value=today;
 //console.log(today);
 
 const Calender = document.querySelector('.datepicker');
