@@ -14,19 +14,12 @@
     "jquery": "^3.3.1",
     "jsdom": "^12.0.0",
     "nodemod": "^1.5.19",
-<<<<<<< HEAD
-=======
     "nodemon": "^1.18.4",
->>>>>>> 9800f32e5c437c7e5f5ffe69e002bd0958a158f1
     "xmldom": "^0.1.27",
     "xmlhttprequest": "^1.8.0"
   },
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "start": "node script.js"
->>>>>>> 9800f32e5c437c7e5f5ffe69e002bd0958a158f1
   },
   "repository": {
     "type": "git",
