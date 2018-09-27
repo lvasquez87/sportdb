@@ -1,0 +1,29 @@
+body {
+    background-color: #D1CD92;
+  }
+  p {
+  padding-left: 20px;
+  font-size: 18px;
+    color: #4583c2;
+  }
+  
+  table {
+    table-layout: auto;
+    width:100%;
+    border-collapse: collapse;
+    border: 2px;
+    
+    
+  }
+  
+  td, th {
+    border: 5px solid;
+    padding: 0.5rem;
+    background-size: 17%;
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  th {
+    background-color: #542DB9;
+  }
+  
