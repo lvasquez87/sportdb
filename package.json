@@ -2,7 +2,7 @@
   "name": "sportsdb",
   "version": "1.0.0",
   "description": "pagina de deportes",
-  "main": "script.js",
+  "main": "server.js",
   "dependencies": {
     "babel-eslint": "^9.0.0",
     "eslint": "^5.5.0",
